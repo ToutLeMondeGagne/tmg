@@ -54,11 +54,6 @@ Le CMS permettra la gestion des sections suivantes :
 
 ## 🏢 Clients & Références
 
-- Nom
-- Logo
-- Site web
-- Secteur d'activité
-
 ## 💼 Projets
 
 - Titre
